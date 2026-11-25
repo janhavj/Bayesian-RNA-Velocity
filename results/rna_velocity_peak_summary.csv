@@ -1,0 +1,3 @@
+quantity,ground_truth,posterior_mean,posterior_median,credible_lower,credible_upper,ground_truth_covered
+peak_spliced_velocity,2.5,2.5764885795978785,2.5758610930614805,2.4090897152855573,2.745001746950445,True
+peak_spliced_velocity_time,1.732867951399863,1.6900189984390546,1.6890941254604954,1.568024545829492,1.8162059660441274,True

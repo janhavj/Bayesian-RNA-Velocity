@@ -1,0 +1,41 @@
+
+# Python virtual environments
+.venv/
+.venv_repro/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Regression backups and temporary workspaces
+.regression_baseline/
+.regression_workspace
+.clean_repro_workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+*.log
+
+# Temporary visual regression review
+results/figure_regression_review.png
